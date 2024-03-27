@@ -1,4 +1,4 @@
 import { FavoritesView } from "./Favorites.js";
 
-// instancia
+// instancia de FavoritesView
 new FavoritesView("#app") 
